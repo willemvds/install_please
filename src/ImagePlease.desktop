@@ -1,0 +1,9 @@
+[Desktop Entry]
+Name=Image Please
+Exec=imgpls %U
+Terminal=false
+Type=Application
+Icon=beekeeper-studio
+Comment=P=p-i
+MimeType=image/jpeg;image/png;image/svg
+Categories=Graphics;
