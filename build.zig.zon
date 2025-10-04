@@ -1,0 +1,13 @@
+.{
+    .name = .install_please,
+    .version = "0.1.0",
+    .fingerprint = 0xe7661228f2b5d84f, // Changing this has security and trust implications.
+    .minimum_zig_version = "0.15.1",
+    .dependencies = .{
+    },
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
