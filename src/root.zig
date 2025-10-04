@@ -18,7 +18,7 @@ pub fn imgpls(a: std.mem.Allocator) ![]const u8 {
     }
 
     const desktop_path = "/usr/share/applications/ImagePlease.desktop";
-    const desktop_fh = try std.fs.createFileAbsolute(desktop_path, .{ .truncate = true, .mode = 0o544 });
+    const desktop_fh = try std.fs.createFileAbsolute(desktop_path, .{ .truncate = true, .mode = 0o644 });
     const desktop_written = try desktop_fh.write(desktop_config);
     if (desktop_written != desktop_config.len) {
         return error.WriteLengthMismatch;
