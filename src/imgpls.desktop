@@ -3,7 +3,7 @@ Name=Image Please
 Exec=imgpls %U
 Terminal=false
 Type=Application
-Icon=beekeeper-studio
+Icon=imgpls
 Comment=P=p-i
-MimeType=image/jpeg;image/png;image/svg
+MimeType=image/jpeg;image/png;image/svg+xml
 Categories=Graphics;
