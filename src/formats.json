@@ -1,0 +1,48 @@
+[
+	{
+		"ext": "avif",
+		"mime": "image/avif",
+	},
+	{
+		"ext": "ico",
+		"mime": "image/x-icon",
+	},
+	{
+		"ext": "bmp",
+		"mime": "image/bmp",
+	},
+	{
+		"ext": "gif",
+		"mime": "image/gif",
+	},
+	{
+		"ext": "jpg",
+		"mime": "image/jpeg",
+	},
+	{
+		"ext": "pcx",
+		"mime": "image/x-pcx",
+	},
+	{
+		"ext": "png",
+		"mime": "image/png",
+	},
+	{
+		"ext": "svg",
+		"mime": "image/svg+xml",
+	},
+	{
+		"ext": "tif",
+		"mime": "image/tiff",
+	},
+	{
+		"ext": "xpm",
+		"mime": "image/x-xpixmap",
+	},
+
+	{
+		"ext": "webp",
+		"mime": "image/webp",
+	},
+]
+
